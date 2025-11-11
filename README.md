@@ -6,6 +6,8 @@
 <div align="center">
   <img src="Readme/logoDaiNam.png" alt="DaiNam University Logo" width="250">
 </div>
+<img width="236" height="214" alt="image" src="https://github.com/user-attachments/assets/9c447c35-3982-442d-b7d6-f40b3704335e" />
+
 
 ## 📋 Giới thiệu
 
@@ -80,7 +82,7 @@ foody-sentiment-analyzer/
 ### Bước 1: Clone Repository
 
 ```bash
-git clone https://github.com/Thuhuyen8324/Phan-tich-cam-xuc-khach-hang-tu-danh-gia-tren-Foody-bang-xu-ly-ngon-ngu-tu-nhien.git
+git clone https://github.com/khuyen248/Foody---Sentiment---Analyzer
 cd foody-sentiment-analyzer
 ```
 
