@@ -252,11 +252,9 @@ print(f"Độ tin cậy: {result['confidence']:.2%}")
 - [ ] Sentiment trend visualization
 📸 Kết quả hiển thị
 <div align="center">
-  <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
-  <img src="Readme/tongquan.jpg" alt="Ảnh tổng quan" width="100%">
+ <img width="1569" height="863" alt="image" src="https://github.com/user-attachments/assets/fb3fed3c-e2c3-4ae6-802c-cd04238a880a" />
   
-  <p><strong>Ảnh cam tươi trên web:</strong></p>
-  <img src="Readme/dudoan.jpg" alt="Ảnh dự đoán" width="100%">
+<img width="1628" height="821" alt="image" src="https://github.com/user-attachments/assets/9cbde380-1509-4268-b3f8-080017e2dd44" />
 </div>
 
 ## 📝 License
