@@ -4,9 +4,8 @@
 🍽️ Foody Sentiment Analyzer 
 </h1>
 <div align="center">
-  <img src="Readme/logoDaiNam.png" alt="DaiNam University Logo" width="250">
-</div>
 <img width="236" height="214" alt="image" src="https://github.com/user-attachments/assets/9c447c35-3982-442d-b7d6-f40b3704335e" />
+</div>
 
 
 ## 📋 Giới thiệu
