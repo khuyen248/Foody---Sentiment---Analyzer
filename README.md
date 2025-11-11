@@ -263,21 +263,12 @@ print(f"Độ tin cậy: {result['confidence']:.2%}")
 
 Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
-## 👥 Tác giả
-
-- **Initial work** - (https://github.com/Thuhuyen8324)
-
 ## 🙏 Lời cảm ơn
 
 - Foody.vn vì cung cấp nền tảng đánh giá
 - PhoBERT team cho pretrained model
 - Cộng đồng NLP Việt Nam
 
-## 📧 Liên hệ
-
-- Email: nguyenthuhuyen8324@gmail.com
-- Facebook: [Your Page](https://facebook.com/thuhuyen8324)
-- LinkedIn: [Your Profile](www.linkedin.com/in/huyền)
 
 ---
 
